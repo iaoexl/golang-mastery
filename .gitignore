@@ -1,0 +1,54 @@
+﻿# ---------- 操作系统临时文件 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- 临时与备份 ----------
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+
+# ---------- IDE / 编辑器 ----------
+.vscode/
+.idea/
+*.sublime-workspace
+
+# ---------- 安全：敏感文件 ----------
+secret.txt
+test.txt
+*.key
+*.pem
+password*.ini
+.env
+.env.*
+!.env.example
+
+# ---------- 安全：证书与私钥 ----------
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+id_rsa*
+id_ed25519*
+*_rsa
+*_ed25519
+
+# ---------- 安全：凭据 / 令牌 JSON ----------
+*credential*.json
+*token*.json
+*secret*.json
+
+# ---------- WorkBuddy ----------
+.workbuddy/
+
+# ---------- Go ----------
+/bin/
+dist/
+coverage/
+*.exe
+*.test
+*.out
+vendor/
