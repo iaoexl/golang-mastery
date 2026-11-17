@@ -93,3 +93,32 @@ bash scripts/bootstrap.sh ./my-new-project    # 空目录起步，输出 BOOTSTR
 - `跑通记录.md` 是对照模板，不是标准答案。换机器重跑应另起记录，不预填、不补签；把别人的「通过」抄进自己的清单，等于把 12_5 的一票否决架空。
 - 所引官方文档、标准库文档与工具的著作权归原作者与权利人所有；本仓库仅对**整理汇编成果**采用 CC BY 4.0，可运行源码与脚本采用 MIT。
 - AI 生成内容的权利与免责说明见上文「协议摘要」，此处不再重复；二创请注明出处，商业使用前请自行确认合规。
+
+## 请我喝杯咖啡
+
+|     微信赞赏码     |       支付宝        |       支付宝红包        |
+| :----------------: | :-----------------: | :-----------------: |
+| <img src="images/wx.jpg" alt="赞赏码" width="200"> | <img src="images/zfb.jpg" alt="支付宝" width="200">| <img src="images/zfb_hb.jpg" alt="支付宝红包" width="200">|
+
+## 你可以在这些地方找到我 (Find Me Here)
+
+<p align="center">
+  <a href="https://gitcode.com/iaoexl/golang-mastery.git" target="_blank" rel="noopener">
+    <img src="images/favicon_gitcode.ico" width="18" height="18" alt="GitCode">&nbsp;GitCode
+  </a>
+  <span style="color: #999;">&nbsp;/&nbsp;</span>
+  <a href="https://atomgit.com/iaoexl/golang-mastery.git" target="_blank" rel="noopener">&nbsp;AtomGit
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://cnb.cool/iaoexl/golang-mastery.git" target="_blank" rel="noopener">
+    <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gitee.com/iaoexl/golang-mastery.git" target="_blank" rel="noopener">
+    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/iaoexl/golang-mastery.git" target="_blank" rel="noopener">
+    <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
+  </a>
+</p>
