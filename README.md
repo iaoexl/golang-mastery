@@ -94,6 +94,14 @@ bash scripts/bootstrap.sh ./my-new-project    # 空目录起步，输出 BOOTSTR
 - 所引官方文档、标准库文档与工具的著作权归原作者与权利人所有；本仓库仅对**整理汇编成果**采用 CC BY 4.0，可运行源码与脚本采用 MIT。
 - AI 生成内容的权利与免责说明见上文「协议摘要」，此处不再重复；二创请注明出处，商业使用前请自行确认合规。
 
+## 代码推送与镜像同步说明
+
+本项目的代码推送流程如下：
+
+```text
+本地代码 → AtomGit → 自动镜像同步 → 腾讯云 CNB / GitHub / Gitee
+```
+
 ## 请我喝杯咖啡
 
 |     微信赞赏码     |       支付宝        |       支付宝红包        |
@@ -113,12 +121,12 @@ bash scripts/bootstrap.sh ./my-new-project    # 空目录起步，输出 BOOTSTR
   <a href="https://cnb.cool/iaoexl/golang-mastery.git" target="_blank" rel="noopener">
     <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
   </a>
+   &nbsp;&nbsp;
+  <a href="https://github.com/iaoexl/golang-mastery.git" target="_blank" rel="noopener">
+    <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
+  </a>
   &nbsp;&nbsp;
   <a href="https://gitee.com/iaoexl/golang-mastery.git" target="_blank" rel="noopener">
     <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/iaoexl/golang-mastery.git" target="_blank" rel="noopener">
-    <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
   </a>
 </p>
